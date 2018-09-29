@@ -1,0 +1,28 @@
+{
+  "name": "threejs-editor",
+  "version": "1.0.0",
+  "description": "3D editor extracted from three.js",
+  "main": "main.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nterms/threejs-editor.git"
+  },
+  "keywords": [
+    "3D",
+    "editor",
+    "three.js"
+  ],
+  "author": "Saranga Abeykoon <amisaranga@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nterms/threejs-editor/issues"
+  },
+  "homepage": "https://github.com/nterms/threejs-editor#readme"
+}
